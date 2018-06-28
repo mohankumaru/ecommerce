@@ -1,0 +1,72 @@
+#logo{float:left;width:50%;height:100px;}
+#banner{float:right;width:50%;height:100px;}
+#form{
+	line-height:40px;
+	float:right;
+	padding-right:8px;
+}
+
+
+.slide1{
+	background-image:url('../images/redmi.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	width:100%;
+	opacity:0.9;
+}
+
+.slide2{
+	background-image:url('../images/macbook.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.slide3{
+	background-image:url('../images/sony.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.slide4{
+	background-image:url('../images/hp.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.slide5{
+	background-image:url('../images/dell.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.slide6{
+	background-image:url('../images/iphone.png');
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.header_wrapper{
+	width:auto;
+	height:100px;
+	margin:auto;
+}
+
+
+#footer{
+	width:auto;
+	height:100px;
+	background:#63B8FF;
+	clear:both;
+}
+
